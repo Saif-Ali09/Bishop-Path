@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.box {
+  width: 64px;
+  height: 64px;
+}
+
+table {
+  margin: 40px auto 0;
+}
+
+table,
+tr,
+td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  text-align: center;
+}
